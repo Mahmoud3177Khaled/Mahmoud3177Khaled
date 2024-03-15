@@ -5,7 +5,9 @@ In my 3 years of coding I’ve boasted a profound comprehension and hands-on exp
 
 ## Achievements and Skills:		
 •	Proficient in C, C++, Python, HTML, and CSS
+
 •	Deep understanding and practical experience in Object-Oriented Programming (OOP), data structures, and software engineering principles
+
 •	Actively learning SQL, JavaScript, Django, and Java to broaden skill set
 •	Extensive experience in game development using C++ and Python
 •	Proficiency in gaming engines such as Unity and Unreal Engine
