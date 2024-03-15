@@ -5,9 +5,9 @@ Hi, I’m Mahmoud Khaled, happy to meet you, a detail-oriented and driven second
 In my 3 years of coding I’ve boasted a profound comprehension and hands-on experience in Object-Oriented Programming (OOP), Data Structures, and Software Engineering principles. Applied through a varied and solid set of languages and going.
 
 ## Achievements and Skills:		
-   •	Proficient in C, C++, Python, HTML, and CSS
+- Proficient in C, C++, Python, HTML, and CSS
 
-•	Deep understanding and practical experience in Object-Oriented Programming (OOP), data structures, and software engineering principles
+- Deep understanding and practical experience in Object-Oriented Programming (OOP), data structures, and software engineering principles
 
 •	Actively learning SQL, JavaScript, Django, and Java to broaden skill set
 
