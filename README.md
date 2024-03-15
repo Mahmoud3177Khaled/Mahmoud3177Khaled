@@ -11,7 +11,7 @@ In my 3 years of coding I’ve boasted a profound comprehension and hands-on exp
 - Actively learning JavaScript, Django, Java and SQL to sharpen skill set
 - Extensive experience in game development using C++ and Python
 - Proficiency in gaming engines such as Unity and Unreal Engine
-- Silver Winner in FCAI Cairo University Game Jam 2023 🎮
+- Silver Winner in FCAI Cairo University Game Jam 2023 🎯🥈
 - Proficient in SQL database management, adept at handling and managing databases to ensure efficient data storage, retrieval, and manipulation.
 - Collaborating as a key member in the ongoing development of "Career Compass", contributing to its functionality and user experience enhancements.
   
