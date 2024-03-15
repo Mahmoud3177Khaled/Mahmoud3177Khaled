@@ -6,49 +6,34 @@ In my 3 years of coding I’ve boasted a profound comprehension and hands-on exp
 
 ## Achievements and Skills:		
 - Proficient in C, C++, Python, HTML, and CSS
-
 - Deep understanding and practical experience in Object-Oriented Programming (OOP), data structures, and software engineering principles
-
-•	Actively learning SQL, JavaScript, Django, and Java to broaden skill set
-
-•	Extensive experience in game development using C++ and Python
-
-•	Proficiency in gaming engines such as Unity and Unreal Engine
-
-•	Silver Winner, FCAI Cairo University Game Jam 2023
-
-•	Collaborating as a key member in the ongoing development of the "Career Compass" website, contributing to its functionality and user experience enhancements.
-
-•	Exceptional social and teamwork skills, committed to continuous achievement and professional growth
+- Actively learning SQL, JavaScript, Django, and Java to broaden skill set
+- Extensive experience in game development using C++ and Python
+- Proficiency in gaming engines such as Unity and Unreal Engine
+- Silver Winner, FCAI Cairo University Game Jam 2023
+- Collaborating as a key member in the ongoing development of the "Career Compass" website, contributing to its functionality and user experience enhancements.
+- Exceptional social and teamwork skills, committed to continuous achievement and professional growth
 
 			
 ## Experience:			
 ### Game Developer | Personal Projects:	
-•	Demonstrated proficiency in coding numerous games in C++ and Python, showcasing strong problem-solving abilities and creativity.
-
-•	Utilized Unity and Unreal Engine to develop immersive and engaging gaming experiences.	
+- Demonstrated proficiency in coding numerous games in C++ and Python, showcasing strong problem-solving abilities and creativity.
+- Utilized Unity and Unreal Engine to develop immersive and engaging gaming experiences.	
 
 ### Web Development | Academic Projects	
-•	Key Contributor in Career Compass Website 
-
-•	Collaborating closely with team members in the development of the "Career Compass" website, contributing over 30% of the coding progress.
-
-•	Exemplified strong interpersonal skills and teamwork to ensure project success, on the lookout for many more exciting journeys.
+- Key Contributor in Career Compass Website 
+- Collaborating closely with team members in the development of the "Career Compass" website, contributing over 30% of the coding progress.
+- Exemplified strong interpersonal skills and teamwork to ensure project success, on the lookout for many more exciting journeys.
 
 
 ## Multilingual Proficiency:			
-•	Fluent in English, with it serving as my linguistic backbone, enabling seamless communication and comprehension.
-
-•	Native Arabic speaker, rooted in cultural heritage, providing a solid foundation for expression.
-
-•	Solid foundations in German, embracing complexity and fostering cross-cultural connections.
-
-•	Passionately learning Russian and Swedish, embarking on a linguistic journey driven by curiosity and fascination.
-
+- Fluent in English, with it serving as my linguistic backbone, enabling seamless communication and comprehension.
+- Native Arabic speaker, rooted in cultural heritage, providing a solid foundation for expression.
+- Solid foundations in German, embracing complexity and fostering cross-cultural connections.
+- Passionately learning Russian and Swedish, embarking on a linguistic journey driven by curiosity and fascination.
 	
 ## Personal Attributes:			
-•	Highly sociable and team-oriented, thriving in collaborative environments.
-
-•	Committed to continuous improvement and achieving sustained progress.	
+- Highly sociable and team-oriented, thriving in collaborative environments.
+- Committed to continuous improvement and achieving sustained progress.	
 
 
