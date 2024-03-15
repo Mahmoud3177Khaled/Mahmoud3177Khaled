@@ -3,7 +3,7 @@ Hello There! I’m Mahmoud Khaled, happy to meet you :D
 
 A detail-oriented and driven second-year Computer Science student in FCAI Cairo Unv. with a GPA of 3.81✨
 
-In my 3 years of coding I’ve boasted a profound comprehension and hands-on experience in Object-Oriented Programming (OOP), Data Structures, and Software Engineering principles. Applied through a varied and solid set of languages and going 💪.
+In my 3 years of coding I’ve boasted a profound comprehension and hands-on experience in Object-Oriented Programming, Data Structures, and Software Engineering principles. Applied through a varied and solid set of languages and going 💪.
 
 
 ## Achievements and Skills:		
