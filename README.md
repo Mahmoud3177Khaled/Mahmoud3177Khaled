@@ -21,7 +21,7 @@ In my 3 years of coding I’ve boasted a profound comprehension and hands-on exp
 - Utilized Unity and Unreal Engine to develop immersive and engaging gaming experiences.	
 
 ### Web Development | Academic Projects	
-- Collaborating closely with team members in the development of "Carrer Compass" and contributing over 30% of the progress.
+- Collaborating closely with team members in the development of "Carrer Compass", thriving in a collaborative environment.
 - Exemplified strong interpersonal skills and teamwork to ensure project success, on the lookout for many more exciting journeys.
 
 ## Multilingual Proficiency:			
