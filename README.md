@@ -1,9 +1,9 @@
-# Hello and Welcome, Please join me in my Coding Space 
-Hello There! I’m Mahmoud Khaled, happy to meet you 
+# Hello and Welcome, Please join me in my Coding Space 👨‍💻
+Hello There! I’m Mahmoud Khaled, happy to meet you 😃
 
 A detail-oriented and driven second-year Computer Science student with a GPA of 3.81✨
 
-In my 3 years of coding I’ve boasted a profound comprehension and hands-on experience in Object-Oriented Programming (OOP), Data Structures, and Software Engineering principles. Applied through a varied and solid set of languages and going.
+In my 3 years of coding I’ve boasted a profound comprehension and hands-on experience in Object-Oriented Programming (OOP), Data Structures, and Software Engineering principles. Applied through a varied and solid set of languages and going 💪.
 
 
 ## Achievements and Skills:		
