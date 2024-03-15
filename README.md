@@ -27,10 +27,9 @@ In my 3 years of coding I’ve boasted a profound comprehension and hands-on exp
 
 
 ## Multilingual Proficiency:			
-- Fluent in English, with it serving as my linguistic backbone, enabling seamless communication and comprehension.
-- Native Arabic speaker, rooted in cultural heritage, providing a solid foundation for expression.
-- Solid foundations in German, embracing complexity and fostering cross-cultural connections.
-- Passionately learning Russian and Swedish, embarking on a linguistic journey driven by curiosity and fascination.
+- Harboring a varied and unique mixture of languages including English, a must / Arabic, my cultural core / German, a really challenging one
+- Exploring new frontiers in Russian and Italian
+
 	
 ## Personal Attributes:			
 - Highly sociable and team-oriented, thriving in collaborative environments.
