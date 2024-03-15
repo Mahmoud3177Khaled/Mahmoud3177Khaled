@@ -24,7 +24,7 @@ In my 3 years of coding I’ve boasted a profound comprehension and hands-on exp
 - Exemplified strong interpersonal skills and teamwork to ensure project success, on the lookout for many more exciting journeys.
 
 ## Multilingual Proficiency:			
-- Harboring a varied and unique mixture of languages including English, a must / Arabic, my cultural core / German, a really challenging one
+- Harboring a varied and unique mixture of languages including English, a must / Arabic, my cultural core / German, a really challenging one 😅
 - Exploring new frontiers in Russian and Italian
 
 	
