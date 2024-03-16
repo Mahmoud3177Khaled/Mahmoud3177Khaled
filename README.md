@@ -26,7 +26,7 @@ In my 3 years of coding I’ve boasted a profound comprehension and hands-on exp
 
 ## Multilingual Proficiency:			
 - Harboring a varied and unique mixture of languages including English, a must / Arabic, a cultural heritage / German, a really challenging one 😅
-- Exploring new frontiers in Russian and Italian soon to be added to the mix 😋
+- Exploring new frontiers in Russian, soon to be added to the mix 😋
 
 	
 ## Personal Attributes:			
