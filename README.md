@@ -1,100 +1,89 @@
-# Mahmoud Khaled
+# 👋 Hi, I'm Mahmoud Khaled
 
-📍 Cairo, Egypt  
-📧 [mahmoudkhaled3177@gmail.com](mailto:mahmoudkhaled3177@gmail.com)  
-🔗 [linkedin.com/in/mahmoud-khaled-79576a31b](https://linkedin.com/in/mahmoud-khaled-79576a31b)  
-💻 [github.com/Mahmoud3177Khaled](https://github.com/Mahmoud3177Khaled)  
-📱 +20 114 940 9704  
+**Aspiring cross-platform developer** | **HPC Trainee** | Passionate about building real-world solutions and system-level software that *actually matters*.
 
----
-
-> 💡 **Aspiring cross-platform developer & HPC Trainee** passionate about system-level programming and impactful software solutions.
+From tinkering with Linux clusters to building full-stack apps with Flutter, I love combining practicality with technical depth. Currently pursuing my BSc in Computer Science — expected 2026 — and constantly exploring new tech dimensions!
 
 ---
 
 ## 🎓 Education
 
-**Faculty of Computers and Artificial Intelligence**, Cairo  
-**BSc in Computer Science**, GPA: 3.8  
-_Expected Graduation: 2026_
+**Faculty of Computers and Artificial Intelligence, Cairo University**  
+**BSc in Computer Science** | GPA: 3.8  
+*Sep 2022 – Expected 2026*
 
-**Relevant Courses**:  
-Advanced OS, High Performance Computing & Parallel Programming, Computer Architecture, Software Engineering, Algorithms Analysis & Design
-
----
-
-## 💻 Projects
-
-### Faculty of Medicine Exam Generator System (Feb 2025 – Present)
-- Java-based GUI to generate exams from SQLite-based question banks.
-- Supports filtering by type, topic, difficulty, and more with dynamic row-based exam creation.
-
-### MPI-Based HPC Cluster (Mar 2025 – Jun 2025)
-- Set up and tested MPI programs for distributed computation.
-- Managed hostfile-based execution and SSH trust setup across nodes.
-
-### Flutter Notes App – *FluffyNotes* (Jul 2024 – Sep 2024)
-- Clean and responsive cross-platform note-taking app using Flutter & Dart.
-- Offline support with SQLite and Firebase integration for sync and auth.
-
-### Career Compass – Job Portal (Mar 2024 – Jun 2024)
-- Built with HTML/CSS/JS and Django backend.
-- Included user roles, job posting, application tracking, and responsive UI.
-
-### Online LMS – Backend APIs (Nov 2024 – Jan 2025)
-- Developed RESTful APIs in Java (Spring Boot) for an LMS platform.
-- User role management and real-time quiz evaluation implemented.
+**Relevant Courses:**  
+Advanced OS · High Performance Computing · Parallel Programming · Computer Architecture · Software Engineering · Algorithms
 
 ---
 
-## 🛠️ Skills
+## 🧑‍💻 Selected Projects
 
-**Programming Languages:** C, Java, Dart, Python, Bash  
-**Frameworks & Libraries:** Flutter, Spring Boot, Django, JavaFX, Pygame  
-**Tools & Technologies:** MPI, OpenMP, Git, GitHub, SQLite, SSH, Codemagic, SonarQube  
-**Other:** Linux, Typst, Technical Documentation
+### 🧪 Faculty of Medicine Exam Generator
+A desktop app built with JavaFX and SQLite to auto-generate exams from question banks. Supports dynamic filtering by topic, difficulty, and type.
 
----
+### ⚙️ MPI-Based HPC Cluster
+Built and configured a 5-node MPI Beowulf cluster using Rocky Linux, static IP networking, and passwordless SSH. Deployed and tested distributed programs across nodes.
 
-## 🎯 Internships
+### 📝 FluffyNotes – A Flutter Notes App
+Cross-platform note-taking app with Firebase Auth, Firestore sync, SQLite for offline persistence, and a polished UI.
 
-### Dart & Flutter Development Intern – *Google Developer Group CIC*  
-**May 2025 – Present** | Cairo, Egypt  
-- Built cross-platform mobile apps using Flutter & Dart.
-- Participated in regular training sessions and mentorship.
+### 💼 Career Compass – Job Portal
+Web app for job seekers and employers. Built with Django backend + clean HTML/CSS/JS frontend. Authentication, job listings, profile dashboards.
 
-### Cross-Platform Intern – *DEPI | CLS Learning Solutions*  
-**Jun 2025 – Present** | Giza, Egypt  
-- Developed production-ready cross-platform applications using Flutter.
-- Trained in both technical and soft skills under expert mentors.
+### 🎓 Online LMS (Java + Spring Boot)
+Developed a learning management backend with REST APIs, user role management, and real-time quiz evaluation. Focused on clean Java architecture and security.
 
 ---
 
-## 🏆 Extracurriculars
+## 💡 Skills
 
-- 🛠️ **Linux Lab Assistant (Jul 2025 – Present)**  
-  Assisted in setting up Linux OS and cluster configurations on lab PCs.
+- **Languages:** C · Java · Dart · Python · Bash
+- **Frameworks:** Flutter · Spring Boot · Django · JavaFX · Pygame
+- **Tools & Tech:** MPI · OpenMP · Git · SQLite · SSH · SonarQube · Codemagic CI/CD
+- **Other:** Linux wizardry · Technical Documentation · Team Collaboration
 
-- 🎮 **Game Jam Winner (Mar 2023)**  
-  Built a full 2D game in one week and won 2nd place in the FCAI Game Jam.
+---
+
+## 🛠️ Internships
+
+**Google Developer Group (GDG) – CIC Campus**  
+*Dart & Flutter Intern* — *May 2025 – Present*  
+> Developing mobile apps, learning advanced Flutter patterns, and participating in live mentorship & workshops.
+
+**Digital Egypt Pioneers Initiative (DEPI)**  
+*Cross-Platform Intern (CLS Learning Solutions)* — *Jun 2025 – Present*  
+> Flutter/Dart development with Firebase backend. Engaged in both tech and soft skills training tracks.
+
+---
+
+## 🌱 Extracurriculars
+
+- **Linux Lab Assistant (Voluntary)**  
+  Helping set up Rocky Linux clusters in FCAI labs.
+
+- **FCAI Game Jam – Silver Winner** *(Mar 2023)*  
+  Built a game in 1 week solo! Finished 2nd 🥈 out of dozens of entries.
 
 ---
 
 ## 📜 Certifications
 
-- 📘 *Introduction to HPC* – MaharaTech (Apr 2025)  
-- 🤖 *Introduction to Modern AI* – Cisco Networking Academy (Mar 2025)  
-- 🚀 *Entrepreneurship Training* – ITIDA / InnovEgypt Program (Feb 2025)
+- Intro to High Performance Computing – *MaharaTech, Apr 2025*  
+- Intro to Modern AI – *Cisco Networking Academy, Mar 2025*  
+- Entrepreneurship Training – *ITIDA | InnovEgypt Program, Feb 2025*
 
 ---
 
 ## 🌍 Languages
 
-- 🇪🇬 Arabic – Native  
-- 🇬🇧 English – Fluent  
-- 🇩🇪 German – Beginner
+- Arabic – Native  
+- English – Fluent  
+- German – Beginner
 
 ---
 
-_**Thanks for visiting my GitHub!**_  
-Feel free to connect or reach out.
+> 📬 Want to connect or collaborate?  
+[mahmoudkhaled3177@gmail.com](mailto:mahmoudkhaled3177@gmail.com) · [LinkedIn](https://linkedin.com/in/mahmoud-khaled-79576a31b) · [GitHub](https://github.com/Mahmoud3177Khaled)
+
+---
